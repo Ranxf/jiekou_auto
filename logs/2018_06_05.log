@@ -1,0 +1,265 @@
+[2018-06-05 09:20:54,568] - logger.py] - INFO: ----------start!-------
+[2018-06-05 09:20:54,569] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 09:20:54,569] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 09:20:55,332] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-05 09:20:55,332] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 09:20:55,332] - logger.py] - INFO: 获取data内容：
+[2018-06-05 09:20:55,333] - logger.py] - INFO: ----------start!-------
+[2018-06-05 09:20:55,333] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 09:20:55,333] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 09:20:55,688] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-05 09:20:55,689] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 09:20:55,689] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-05 09:20:55,689] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 09:20:55,689] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 09:20:55,689] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 09:20:55,689] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 09:20:55,689] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 09:20:56,043] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 09:20:56,043] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 09:20:56,044] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 09:20:56,045] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 09:20:56,045] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 09:20:56,300] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 09:20:56,300] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 09:20:56,301] - logger.py] - INFO: ------pass!---------
+[2018-06-05 09:20:56,301] - logger.py] - INFO: ------start!--------
+[2018-06-05 09:20:56,302] - logger.py] - INFO: 第一步：登录
+[2018-06-05 09:20:56,514] - logger.py] - INFO: ------start!--------
+[2018-06-05 09:39:07,617] - logger.py] - INFO: ----------start!-------
+[2018-06-05 09:39:07,617] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 09:39:07,617] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 09:39:08,207] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-05 09:39:08,208] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 09:39:08,209] - logger.py] - INFO: 获取data内容：
+[2018-06-05 09:39:08,210] - logger.py] - INFO: ----------start!-------
+[2018-06-05 09:39:08,210] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 09:39:08,210] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 09:39:08,604] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-05 09:39:08,605] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 09:39:08,605] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-05 09:39:08,606] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 09:39:08,606] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 09:39:08,606] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 09:39:08,606] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 09:39:08,606] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 09:39:08,888] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 09:39:08,888] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 09:39:08,889] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 09:39:08,889] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 09:39:08,890] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 09:39:09,163] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 09:39:09,164] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 09:39:09,164] - logger.py] - INFO: ------pass!---------
+[2018-06-05 09:39:09,165] - logger.py] - INFO: ------start!--------
+[2018-06-05 09:39:09,166] - logger.py] - INFO: 第一步：登录
+[2018-06-05 09:39:09,402] - logger.py] - INFO: ------start!--------
+[2018-06-05 12:58:49,168] - logger.py] - INFO: ----------start!-------
+[2018-06-05 12:58:49,168] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 12:58:49,168] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 12:58:49,840] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-05 12:58:49,841] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 12:58:49,841] - logger.py] - INFO: 获取data内容：
+[2018-06-05 12:58:49,841] - logger.py] - INFO: ----------start!-------
+[2018-06-05 12:58:49,842] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 12:58:49,842] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 12:58:50,240] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-05 12:58:50,240] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 12:58:50,240] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-05 12:58:50,240] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 12:58:50,241] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 12:58:50,241] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 12:58:50,241] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 12:58:50,241] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 12:58:50,635] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 12:58:50,635] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 12:58:50,635] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 12:58:50,635] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 12:58:50,635] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 12:58:50,919] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 12:58:50,920] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 12:58:50,920] - logger.py] - INFO: ------pass!---------
+[2018-06-05 12:58:50,921] - logger.py] - INFO: ------start!--------
+[2018-06-05 12:58:50,922] - logger.py] - INFO: 第一步：登录
+[2018-06-05 12:58:51,164] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:31:16,150] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:31:16,150] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 14:31:16,150] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 14:31:16,708] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-05 14:31:16,709] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 14:31:16,709] - logger.py] - INFO: 获取data内容：
+[2018-06-05 14:31:16,710] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:31:16,710] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 14:31:16,710] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 14:31:17,076] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-05 14:31:17,077] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 14:31:17,077] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-05 14:31:17,078] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 14:31:17,078] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 14:31:17,078] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 14:31:17,078] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:31:17,079] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 14:31:17,381] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:31:17,381] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:31:17,382] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 14:31:17,382] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:31:17,383] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:31:17,662] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:31:17,663] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:31:17,663] - logger.py] - INFO: ------pass!---------
+[2018-06-05 14:31:17,663] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:31:17,663] - logger.py] - INFO: 第一步：登录
+[2018-06-05 14:31:17,904] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:34:27,530] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:34:27,530] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 14:34:27,530] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 14:34:28,085] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-05 14:34:28,086] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 14:34:28,086] - logger.py] - INFO: 获取data内容：
+[2018-06-05 14:34:28,087] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:34:28,087] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 14:34:28,087] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 14:34:28,411] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-05 14:34:28,411] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 14:34:28,412] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-05 14:34:28,412] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 14:34:28,412] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 14:34:28,412] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 14:34:28,413] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:34:28,413] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 14:34:28,689] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:34:28,689] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:34:28,690] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 14:34:28,690] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:34:28,690] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:34:28,926] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:34:28,927] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:34:28,927] - logger.py] - INFO: ------pass!---------
+[2018-06-05 14:34:28,928] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:34:28,928] - logger.py] - INFO: 第一步：登录
+[2018-06-05 14:34:29,182] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:36:24,311] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:36:24,311] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 14:36:24,311] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 14:36:24,799] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-05 14:36:24,799] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 14:36:24,799] - logger.py] - INFO: 获取data内容：
+[2018-06-05 14:36:24,799] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:36:24,800] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 14:36:24,800] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 14:36:25,144] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-05 14:36:25,145] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 14:36:25,145] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-05 14:36:25,146] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 14:36:25,146] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 14:36:25,146] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 14:36:25,146] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:36:25,147] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 14:36:25,513] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:36:25,514] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:36:25,514] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 14:36:25,515] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:36:25,515] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:36:25,754] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:36:25,755] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:36:25,755] - logger.py] - INFO: ------pass!---------
+[2018-06-05 14:36:25,756] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:36:25,756] - logger.py] - INFO: 第一步：登录
+[2018-06-05 14:36:26,010] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:56:13,165] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 14:56:13,165] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:56:13,165] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 14:56:13,461] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 14:56:13,461] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:56:13,461] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:56:13,658] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:56:13,658] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 14:56:13,658] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 14:56:14,242] - logger.py] - INFO: 获取请求结果：{'status': 0, 'success': False, 'url': 'http://www.ttkdex.com', 'exceed': '', 'data': '', 'timeused': '--', 'ico': '/data/upload/201407/tt_logo.gif', 'nu': '560697415000', 'rank': '2.4', 'time': '', 'companytype': 'tiantian', 'reason': '快递公司参数异常：单号不存在或者已经过期', 'phone': '400-188-8888', 'company': None}
+[2018-06-05 14:56:14,243] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 14:56:14,243] - logger.py] - INFO: 获取data内容：
+[2018-06-05 14:56:14,244] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:56:14,245] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 14:56:14,245] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 14:56:14,670] - logger.py] - INFO: 获取请求结果：{'status': 6, 'success': True, 'url': 'http://www.yundaex.com', 'exceed': '', 'data': [{'time': '2016-08-21 19:47:14', 'context': '到达：贵州都匀市公司 由 已签收 签收'}, {'time': '2016-08-21 09:45:36', 'context': '到达：贵州都匀市公司 指定：派送'}, {'time': '2016-08-20 06:32:38', 'context': '到达：贵州贵阳分拨中心 发往：贵州都匀市公司'}, {'time': '2016-08-20 06:17:24', 'context': '到达：贵州贵阳分拨中心 上级站点：福建晋江分拨中心'}, {'time': '2016-08-18 21:48:53', 'context': '到达：福建晋江分拨中心 发往：贵州贵阳分拨中心'}, {'time': '2016-08-18 21:46:25', 'context': '到达：福建晋江分拨中心'}, {'time': '2016-08-18 06:48:19', 'context': '到达：福建市场部台江服务部 发往：贵州贵阳分拨中心'}, {'time': '2016-08-18 05:51:57', 'context': '到达：福建市场部台江服务部 已揽件'}], 'timeused': '--', 'ico': '/data/upload/201407/yd_logo.gif', 'nu': '1202247993797', 'rank': '2.4', 'time': '', 'companytype': 'yunda', 'reason': '', 'phone': '95546', 'company': '韵达快递'}
+[2018-06-05 14:56:14,671] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 14:56:14,671] - logger.py] - INFO: 获取data内容：[{'time': '2016-08-21 19:47:14', 'context': '到达：贵州都匀市公司 由 已签收 签收'}, {'time': '2016-08-21 09:45:36', 'context': '到达：贵州都匀市公司 指定：派送'}, {'time': '2016-08-20 06:32:38', 'context': '到达：贵州贵阳分拨中心 发往：贵州都匀市公司'}, {'time': '2016-08-20 06:17:24', 'context': '到达：贵州贵阳分拨中心 上级站点：福建晋江分拨中心'}, {'time': '2016-08-18 21:48:53', 'context': '到达：福建晋江分拨中心 发往：贵州贵阳分拨中心'}, {'time': '2016-08-18 21:46:25', 'context': '到达：福建晋江分拨中心'}, {'time': '2016-08-18 06:48:19', 'context': '到达：福建市场部台江服务部 发往：贵州贵阳分拨中心'}, {'time': '2016-08-18 05:51:57', 'context': '到达：福建市场部台江服务部 已揽件'}]
+[2018-06-05 14:56:14,671] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 14:56:14,672] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 14:56:14,672] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:56:14,672] - logger.py] - INFO: 第一步：登录
+[2018-06-05 14:56:14,908] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:58:02,527] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 14:58:02,528] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:58:02,528] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 14:58:02,768] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 14:58:02,768] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:58:02,769] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:58:02,967] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:58:02,967] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 14:58:02,968] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 14:58:03,558] - logger.py] - INFO: 获取请求结果：{'company': None, 'companytype': 'tiantian', 'url': 'http://www.ttkdex.com', 'time': '', 'reason': '快递公司参数异常：单号不存在或者已经过期', 'rank': '2.4', 'status': 0, 'success': False, 'phone': '400-188-8888', 'exceed': '', 'ico': '/data/upload/201407/tt_logo.gif', 'timeused': '--', 'data': '', 'nu': '560697415000'}
+[2018-06-05 14:58:03,558] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 14:58:03,558] - logger.py] - INFO: 获取data内容：
+[2018-06-05 14:58:03,559] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:58:03,559] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 14:58:03,560] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 14:58:03,917] - logger.py] - INFO: 获取请求结果：{'company': '韵达快递', 'companytype': 'yunda', 'url': 'http://www.yundaex.com', 'time': '', 'reason': '', 'rank': '2.4', 'status': 6, 'success': True, 'phone': '95546', 'exceed': '', 'ico': '/data/upload/201407/yd_logo.gif', 'timeused': '--', 'data': [{'context': '到达：贵州都匀市公司 由 已签收 签收', 'time': '2016-08-21 19:47:14'}, {'context': '到达：贵州都匀市公司 指定：派送', 'time': '2016-08-21 09:45:36'}, {'context': '到达：贵州贵阳分拨中心 发往：贵州都匀市公司', 'time': '2016-08-20 06:32:38'}, {'context': '到达：贵州贵阳分拨中心 上级站点：福建晋江分拨中心', 'time': '2016-08-20 06:17:24'}, {'context': '到达：福建晋江分拨中心 发往：贵州贵阳分拨中心', 'time': '2016-08-18 21:48:53'}, {'context': '到达：福建晋江分拨中心', 'time': '2016-08-18 21:46:25'}, {'context': '到达：福建市场部台江服务部 发往：贵州贵阳分拨中心', 'time': '2016-08-18 06:48:19'}, {'context': '到达：福建市场部台江服务部 已揽件', 'time': '2016-08-18 05:51:57'}], 'nu': '1202247993797'}
+[2018-06-05 14:58:03,918] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 14:58:03,918] - logger.py] - INFO: 获取data内容：[{'context': '到达：贵州都匀市公司 由 已签收 签收', 'time': '2016-08-21 19:47:14'}, {'context': '到达：贵州都匀市公司 指定：派送', 'time': '2016-08-21 09:45:36'}, {'context': '到达：贵州贵阳分拨中心 发往：贵州都匀市公司', 'time': '2016-08-20 06:32:38'}, {'context': '到达：贵州贵阳分拨中心 上级站点：福建晋江分拨中心', 'time': '2016-08-20 06:17:24'}, {'context': '到达：福建晋江分拨中心 发往：贵州贵阳分拨中心', 'time': '2016-08-18 21:48:53'}, {'context': '到达：福建晋江分拨中心', 'time': '2016-08-18 21:46:25'}, {'context': '到达：福建市场部台江服务部 发往：贵州贵阳分拨中心', 'time': '2016-08-18 06:48:19'}, {'context': '到达：福建市场部台江服务部 已揽件', 'time': '2016-08-18 05:51:57'}]
+[2018-06-05 14:58:03,919] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 14:58:03,919] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 14:58:03,920] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:58:03,920] - logger.py] - INFO: 第一步：登录
+[2018-06-05 14:58:04,134] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:59:12,514] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:59:12,514] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 14:59:12,514] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 14:59:12,979] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-05 14:59:12,979] - logger.py] - INFO: 获取公司名称：None
+[2018-06-05 14:59:12,979] - logger.py] - INFO: 获取data内容：
+[2018-06-05 14:59:12,979] - logger.py] - INFO: ----------start!-------
+[2018-06-05 14:59:12,979] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 14:59:12,979] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 14:59:13,322] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-05 14:59:13,322] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-05 14:59:13,322] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-05 14:59:13,323] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-05 14:59:13,323] - logger.py] - INFO: ----------pass!-------
+[2018-06-05 14:59:13,323] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 14:59:13,323] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:59:13,324] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 14:59:13,537] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:59:13,537] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:59:13,538] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 14:59:13,538] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:59:13,538] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 14:59:13,802] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-05 14:59:13,803] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-05 14:59:13,803] - logger.py] - INFO: ------pass!---------
+[2018-06-05 14:59:13,804] - logger.py] - INFO: ------start!--------
+[2018-06-05 14:59:13,804] - logger.py] - INFO: 第一步：登录
+[2018-06-05 14:59:14,055] - logger.py] - INFO: ------start!--------
+[2018-06-05 15:00:44,296] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-05 15:00:44,297] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 15:00:44,297] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-05 15:00:44,607] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-05 15:00:44,607] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-05 15:00:44,607] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-05 15:00:44,788] - logger.py] - INFO: ----------start!-------
+[2018-06-05 15:00:44,788] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-05 15:00:44,789] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-05 15:00:45,123] - logger.py] - INFO: 获取请求结果：{'exceed': '', 'ico': '/data/upload/201407/sf_logo.gif', 'company': '顺丰速运', 'reason': '', 'companytype': 'shunfeng', 'rank': '4.0', 'time': '', 'phone': '95338', 'timeused': '--', 'success': True, 'url': 'http://www.sf-express.com', 'status': 8, 'nu': '560697415000', 'data': [{'context': '查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>', 'time': '2016-08-03 09:50:56'}]}
+[2018-06-05 15:00:45,123] - logger.py] - INFO: 获取公司名称：顺丰速运
+[2018-06-05 15:00:45,123] - logger.py] - INFO: 获取data内容：[{'context': '查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>', 'time': '2016-08-03 09:50:56'}]
+[2018-06-05 15:00:45,124] - logger.py] - INFO: 获取已签收状态：查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>
+[2018-06-05 15:00:45,125] - logger.py] - INFO: ----------start!-------
+[2018-06-05 15:00:45,125] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-05 15:00:45,125] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-05 15:00:45,312] - logger.py] - INFO: 获取请求结果：{'exceed': '', 'ico': '/data/upload/201407/sf_logo.gif', 'company': '顺丰速运', 'reason': '', 'companytype': 'shunfeng', 'rank': '4.0', 'time': '', 'phone': '95338', 'timeused': '--', 'success': True, 'url': 'http://www.sf-express.com', 'status': 8, 'nu': '1202247993797', 'data': [{'context': '查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>', 'time': '2016-08-03 09:50:56'}]}
+[2018-06-05 15:00:45,312] - logger.py] - INFO: 获取公司名称：顺丰速运
+[2018-06-05 15:00:45,313] - logger.py] - INFO: 获取data内容：[{'context': '查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>', 'time': '2016-08-03 09:50:56'}]
+[2018-06-05 15:00:45,313] - logger.py] - INFO: 获取已签收状态：查快递寄快递请上快递网<a href="http://www.kuaidi.com>www.kuaidi.com</a>
+[2018-06-05 15:00:45,314] - logger.py] - INFO: ------start!--------
+[2018-06-05 15:00:45,314] - logger.py] - INFO: 第一步：登录
+[2018-06-05 15:00:45,527] - logger.py] - INFO: ------start!--------

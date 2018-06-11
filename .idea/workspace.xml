@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ea96944-2170-4045-82cc-73e324c7ec23" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Gloria.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yoyo_jiekou.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/01_test_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/02_test_userDelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/03_test_userGet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/04_test_userPost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/05_test_userPut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/heartbeatGet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/loginblog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/test_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/test_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/excel_fengzhuang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/excel_pub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/mysql_pub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/oracle_pub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/testdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/cfg.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/readConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/sample.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2018_06_04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2018_06_05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2018_06_08.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2018_06_11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python接口自动化1119修正版.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2018_06_08_13_49_25result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2018_06_08_13_49_30result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2018_06_11_09_42_17result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2018_06_11_11_03_55result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2018_06_11_11_04_02result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_126_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_atta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_qq126_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_qq_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unnamed.patch" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ranran_jiekou$logger.coverage" NAME="logger Coverage Results" MODIFIED="1528105245988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$excel.coverage" NAME="excel Coverage Results" MODIFIED="1528105099916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$test_userGet.coverage" NAME="test_userGet Coverage Results" MODIFIED="1528180204569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_in_test_03_py.coverage" NAME="Unittests in test_03.py Coverage Results" MODIFIED="1528175954053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$test_userDelete.coverage" NAME="test_userDelete Coverage Results" MODIFIED="1528179109309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/yoyo_jiekou$logger.coverage" NAME="logger Coverage Results" MODIFIED="1528100741353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$run_qq126_demo.coverage" NAME="run_qq126_demo Coverage Results" MODIFIED="1528172361984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_in_test_02_py.coverage" NAME="Unittests in test_02.py Coverage Results" MODIFIED="1528175333797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_for_test_01_Blog_login_test_login1.coverage" NAME="Unittests for test_01.Blog_login.test_login1 Coverage Results" MODIFIED="1528174765760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_for_test_interface_Interface_test_heartbeatget.coverage" NAME="Unittests for test_interface.Interface.test_heartbeatget Coverage Results" MODIFIED="1528179867994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$excel_fengzhuang.coverage" NAME="excel_fengzhuang Coverage Results" MODIFIED="1528173404601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$test_heartbeatGet.coverage" NAME="test_heartbeatGet Coverage Results" MODIFIED="1528179102414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$run_126_demo.coverage" NAME="run_126_demo Coverage Results" MODIFIED="1528171221334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1528182044184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_for_test_02_Test_Kuaidi_test_tiantian.coverage" NAME="Unittests for test_02.Test_Kuaidi.test_tiantian Coverage Results" MODIFIED="1528175398113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_for_01_test_interface_Interface_test_heartbeatget.coverage" NAME="Unittests for 01_test_interface.Interface.test_heartbeatget Coverage Results" MODIFIED="1528180758112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_in_test_interface_py.coverage" NAME="Unittests in test_interface.py Coverage Results" MODIFIED="1528179846654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1528181758938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$mysql_pub.coverage" NAME="mysql_pub Coverage Results" MODIFIED="1528104342727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$Unittests_for_test_02_Test_Kuaidi_test_yunda.coverage" NAME="Unittests for test_02.Test_Kuaidi.test_yunda Coverage Results" MODIFIED="1528175420773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$test_userPost.coverage" NAME="test_userPost Coverage Results" MODIFIED="1528179233201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$test_xin300_login.coverage" NAME="test_xin300_login Coverage Results" MODIFIED="1528180833823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$test_xin300Bplatform_login.coverage" NAME="test_xin300B（platform）_login Coverage Results" MODIFIED="1528181244497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$excel_pub.coverage" NAME="excel_pub Coverage Results" MODIFIED="1528105702491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$run_demo.coverage" NAME="run_demo Coverage Results" MODIFIED="1528168931624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yoyo_jiekou$Unittests_in_test_03_py.coverage" NAME="Unittests in test_03.py Coverage Results" MODIFIED="1528100209471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$run_atta.coverage" NAME="run_atta Coverage Results" MODIFIED="1528172066970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ranran_jiekou$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1528182039862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-362">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_03.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/test_03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginblog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/loginblog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-110">
+              <caret line="4" column="71" selection-start-line="1" selection-end-line="4" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_xin300B（platform）_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300B（platform）_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="39" column="26" selection-start-line="7" selection-end-line="49" selection-end-column="19" />
+              <folding>
+                <element signature="e#83#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel_fengzhuang.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/excel_fengzhuang.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cfg.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ranxf" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/logger.py" />
+        <option value="$PROJECT_DIR$/common/mysql_pub.py" />
+        <option value="$PROJECT_DIR$/common/excel.py" />
+        <option value="$PROJECT_DIR$/common/excel_pub.py" />
+        <option value="$PROJECT_DIR$/run_demo.py" />
+        <option value="$PROJECT_DIR$/run_qq_demo.py" />
+        <option value="$PROJECT_DIR$/run_126_demo.py" />
+        <option value="$PROJECT_DIR$/run_atta.py" />
+        <option value="$PROJECT_DIR$/run_qq126_demo.py" />
+        <option value="$PROJECT_DIR$/common/excel_fengzhuang.py" />
+        <option value="$PROJECT_DIR$/case/test_02.py" />
+        <option value="$PROJECT_DIR$/case/test_01.py" />
+        <option value="$PROJECT_DIR$/case/test_heartbeatGet.py" />
+        <option value="$PROJECT_DIR$/case/test_userGet.py" />
+        <option value="$PROJECT_DIR$/case/test_userPost.py" />
+        <option value="$PROJECT_DIR$/case/test_interface.py" />
+        <option value="$PROJECT_DIR$/config/cfg.ini" />
+        <option value="$PROJECT_DIR$/run_main.py" />
+        <option value="$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300B（platform）_login.py" />
+        <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="$PROJECT_DIR$/config/readConfig.py" />
+        <option value="$PROJECT_DIR$/case/tmp" />
+        <option value="$PROJECT_DIR$/case/测试面试_笔试题" />
+        <option value="$PROJECT_DIR$/笔试题/测试面试_笔试题" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="128" />
+    <option name="y" value="110" />
+    <option name="width" value="1910" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ranran_jiekou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ranran_jiekou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ranran_jiekou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ranran_jiekou" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/笔试题" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/report" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/笔试题" />
+      <recent name="$PROJECT_DIR$/case" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_main">
+    <configuration name="readConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yoyo_jiekou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/readConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yoyo_jiekou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_xin300B（platform）_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yoyo_jiekou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300B（platform）_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_xin300_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yoyo_jiekou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yoyo_jiekou" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yoyo_jiekou" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yoyo_jiekou" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yoyo_jiekou" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yoyo_jiekou" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yoyo_jiekou" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yoyo_jiekou" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yoyo_jiekou" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_main" />
+      <item itemvalue="Python.test_xin300_login" />
+      <item itemvalue="Python.test_xin300B（platform）_login" />
+      <item itemvalue="Python.tmp" />
+      <item itemvalue="Python.readConfig" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python.readConfig" />
+        <item itemvalue="Python.tmp" />
+        <item itemvalue="Python.test_xin300B（platform）_login" />
+        <item itemvalue="Python.test_xin300_login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ea96944-2170-4045-82cc-73e324c7ec23" name="Default" comment="" />
+      <created>1501164739993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501164739993</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1528690050002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528690050002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_03_py - 2018.06.04 at 16h 16m 50s.xml">
+      <configuration name="Unittests in test_03.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_01_Blog_login_test_login1 - 2018.06.05 at 12h 59m 25s.xml">
+      <configuration name="Unittests for test_01.Blog_login.test_login1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_02_py - 2018.06.05 at 13h 08m 54s.xml">
+      <configuration name="Unittests in test_02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_02_Test_Kuaidi_test_tiantian - 2018.06.05 at 13h 09m 58s.xml">
+      <configuration name="Unittests for test_02.Test_Kuaidi.test_tiantian" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_02_Test_Kuaidi_test_yunda - 2018.06.05 at 13h 10m 20s.xml">
+      <configuration name="Unittests for test_02.Test_Kuaidi.test_yunda" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_03_py - 2018.06.05 at 13h 19m 14s.xml">
+      <configuration name="Unittests in test_03.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_interface_py - 2018.06.05 at 14h 24m 06s.xml">
+      <configuration name="Unittests in test_interface.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_interface_Interface_test_heartbeatget - 2018.06.05 at 14h 24m 20s.xml">
+      <configuration name="Unittests for test_interface.Interface.test_heartbeatget" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_interface_Interface_test_heartbeatget - 2018.06.05 at 14h 24m 28s.xml">
+      <configuration name="Unittests for test_interface.Interface.test_heartbeatget" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_01_test_interface_Interface_test_heartbeatget - 2018.06.05 at 14h 39m 18s.xml">
+      <configuration name="Unittests for 01_test_interface.Interface.test_heartbeatget" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27261904" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="9" visible="true" weight="0.29613733" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29689175" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/case/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300B（platform）_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="39" column="26" selection-start-line="7" selection-end-line="49" selection-end-column="19" />
+          <folding>
+            <element signature="e#83#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excel_fengzhuang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="8" selection-start-line="7" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="8" selection-start-line="7" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/test_userGet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_06_04.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/oracle_pub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mysql_pub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excel_pub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="72" column="43" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../other/Selenium2/PythonLearn/learn4.4.2右键悬停双击.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../other/Selenium2/PythonLearn/learn_8.1.2HTML测试报告.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2018_06_05_09_20_54result.html" />
+    <entry file="file://$PROJECT_DIR$/../../other/Selenium2/PythonLearn/learn_8.2.2发送带附件的邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_126_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_atta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/heartbeatGet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/04_test_userPost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="41" column="57" selection-start-line="11" selection-end-line="41" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/03_test_userGet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_qq126_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_qq_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" selection-start-line="9" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/01_test_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../other/SZRS/XIN300BS/平台/test_xin300B（platform）_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="39" column="26" selection-start-line="7" selection-end-line="49" selection-end-column="19" />
+          <folding>
+            <element signature="e#83#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.py" />
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1216">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excel_fengzhuang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔试题/classmethod&amp;staticmethod.py" />
+    <entry file="file://$PROJECT_DIR$/笔试题/测试面试_笔试题" />
+    <entry file="file://$PROJECT_DIR$/case/loginblog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="4" column="71" selection-start-line="1" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

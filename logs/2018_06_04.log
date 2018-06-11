@@ -1,0 +1,48 @@
+[2018-06-04 16:29:04,510] - logger.py] - INFO: ---测试开始----
+[2018-06-04 16:29:04,510] - logger.py] - INFO: 操作步骤1,2,3
+[2018-06-04 16:29:04,510] - logger.py] - WARNING: ----测试结束----
+[2018-06-04 16:37:46,609] - logger.py] - INFO: ---测试开始----
+[2018-06-04 16:37:46,609] - logger.py] - INFO: 操作步骤1,2,3
+[2018-06-04 16:37:46,609] - logger.py] - WARNING: ----测试结束----
+[2018-06-04 16:44:03,927] - logger.py] - INFO: ---测试开始----
+[2018-06-04 16:44:03,928] - logger.py] - INFO: 操作步骤1,2,3
+[2018-06-04 16:44:03,928] - logger.py] - INFO: 一个debug信息
+[2018-06-04 16:44:03,928] - logger.py] - WARNING: 一个warning信息
+[2018-06-04 16:44:03,928] - logger.py] - ERROR: 一个error信息
+[2018-06-04 16:44:03,928] - logger.py] - DEBUG: 一个debug信息
+[2018-06-04 16:44:03,928] - logger.py] - INFO: ----测试结束---
+[2018-06-04 17:40:45,997] - logger.py] - INFO: ---测试开始----
+[2018-06-04 17:40:45,998] - logger.py] - INFO: 操作步骤1,2,3
+[2018-06-04 17:40:45,998] - logger.py] - INFO: 一个debug信息
+[2018-06-04 17:40:45,998] - logger.py] - WARNING: 一个warning信息
+[2018-06-04 17:40:45,998] - logger.py] - ERROR: 一个error信息
+[2018-06-04 17:40:45,998] - logger.py] - DEBUG: 一个debug信息
+[2018-06-04 17:40:45,998] - logger.py] - INFO: ----测试结束---
+[2018-06-04 17:50:16,314] - logger.py] - INFO: ----------start!-------
+[2018-06-04 17:50:16,314] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2018-06-04 17:50:16,315] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2018-06-04 17:50:17,530] - logger.py] - INFO: 获取请求结果：{u'status': 0, u'exceed': u'', u'ico': u'/data/upload/201407/tt_logo.gif', u'success': False, u'url': u'http://www.ttkdex.com', u'company': None, u'timeused': u'--', u'rank': u'2.4', u'phone': u'400-188-8888', u'reason': u'\u5feb\u9012\u516c\u53f8\u53c2\u6570\u5f02\u5e38\uff1a\u5355\u53f7\u4e0d\u5b58\u5728\u6216\u8005\u5df2\u7ecf\u8fc7\u671f', u'time': u'', u'data': u'', u'nu': u'560697415000', u'companytype': u'tiantian'}
+[2018-06-04 17:50:17,531] - logger.py] - INFO: 获取公司名称：None
+[2018-06-04 17:50:17,531] - logger.py] - INFO: 获取data内容：
+[2018-06-04 17:50:17,531] - logger.py] - INFO: ----------start!-------
+[2018-06-04 17:50:17,532] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2018-06-04 17:50:17,532] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2018-06-04 17:50:17,915] - logger.py] - INFO: 获取请求结果：{u'status': 6, u'exceed': u'', u'ico': u'/data/upload/201407/yd_logo.gif', u'success': True, u'url': u'http://www.yundaex.com', u'company': u'\u97f5\u8fbe\u5feb\u9012', u'timeused': u'--', u'rank': u'2.4', u'phone': u'95546', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}], u'nu': u'1202247993797', u'companytype': u'yunda'}
+[2018-06-04 17:50:17,916] - logger.py] - INFO: 获取公司名称：韵达快递
+[2018-06-04 17:50:17,916] - logger.py] - INFO: 获取data内容：[{u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u7531 \u5df2\u7b7e\u6536 \u7b7e\u6536', u'time': u'2016-08-21 19:47:14'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8 \u6307\u5b9a\uff1a\u6d3e\u9001', u'time': u'2016-08-21 09:45:36'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u90fd\u5300\u5e02\u516c\u53f8', u'time': u'2016-08-20 06:32:38'}, {u'context': u'\u5230\u8fbe\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3 \u4e0a\u7ea7\u7ad9\u70b9\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-20 06:17:24'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:48:53'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u664b\u6c5f\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 21:46:25'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u53d1\u5f80\uff1a\u8d35\u5dde\u8d35\u9633\u5206\u62e8\u4e2d\u5fc3', u'time': u'2016-08-18 06:48:19'}, {u'context': u'\u5230\u8fbe\uff1a\u798f\u5efa\u5e02\u573a\u90e8\u53f0\u6c5f\u670d\u52a1\u90e8 \u5df2\u63fd\u4ef6', u'time': u'2016-08-18 05:51:57'}]
+[2018-06-04 17:50:17,916] - logger.py] - INFO: 获取已签收状态：到达：贵州都匀市公司 由 已签收 签收
+[2018-06-04 17:50:17,917] - logger.py] - INFO: ----------pass!-------
+[2018-06-04 17:50:17,917] - logger.py] - INFO: ------登录成功用例：start!---------
+[2018-06-04 17:50:17,917] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-04 17:50:17,917] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2018-06-04 17:50:18,219] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-04 17:50:18,220] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-04 17:50:18,220] - logger.py] - INFO: ------登录失败用例：start!---------
+[2018-06-04 17:50:18,220] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2018-06-04 17:50:18,220] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2018-06-04 17:50:18,473] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2018-06-04 17:50:18,473] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2018-06-04 17:50:18,473] - logger.py] - INFO: ------pass!---------
+[2018-06-04 17:50:18,474] - logger.py] - INFO: ------start!--------
+[2018-06-04 17:50:18,474] - logger.py] - INFO: 第一步：登录
+[2018-06-04 17:50:18,733] - logger.py] - INFO: ------start!--------
